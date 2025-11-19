@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  AZURE_WEBAPP_NAME: my-azure-webapp
+  AZURE_WEBAPP_NAME: my-dotnet18
   AZURE_WEBAPP_PACKAGE_PATH: './src/MyWebApp'
   DOTNET_VERSION: '9.0.x'
 
